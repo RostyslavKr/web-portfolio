@@ -9,7 +9,7 @@ export default function HeroComponent() {
                <Image className="wave" src="/images/waving-hand.svg" alt="hand" width={28} height={28} /></div>
             
             
-            <h1 className="font-bold text-4xl text-zinc-100 md:text-5xl">Fronend Developer</h1>
+            <h1 className="font-bold text-4xl text-zinc-100 md:text-5xl">Frontend Developer</h1>
             <p className="font-medium text-sm text-slate-300 md:text-lg lg:text-xl">Passionate about crafting websites and scalable frontend products that prioritize exceptional user experiences, I specialize in developing rich web applications that engage and delight users.</p></div>
                     
               <Image className="self-center" src="/images/computer.svg" width={250} height={120} alt="computer" /> </div>
